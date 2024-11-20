@@ -1,8 +1,7 @@
-### About me
 <h1 align="center">Hi 👋, I'm Kimyejong</h1>
 <h3 align="center">I am working hard to be a better person than I was last Saturday.</h3>
 
-- 📫 How to reach me **yejanot@naver.com**
+📫 How to reach me **yejanot@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
